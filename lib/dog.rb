@@ -1,7 +1,7 @@
 class DOG
-  Puts "woof"
+  puts "woof"
 end
 
 fido = DOG.new
 snoopy = DOG.new
-lassie = DOG.new 
+lassie = DOG.new
