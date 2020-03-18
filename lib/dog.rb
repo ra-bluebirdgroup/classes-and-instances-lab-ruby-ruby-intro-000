@@ -1,7 +1,7 @@
-class dog
+class DOG
   Puts "woof"
 end
 
-fido = dog.new
-snoopy = dog.new
-lassie = dog.new 
+fido = DOG.new
+snoopy = DOG.new
+lassie = DOG.new 
