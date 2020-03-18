@@ -1,4 +1,4 @@
-calss person 
- puts "greetings" 
+calss person
+ puts "greetings"
 
 end
