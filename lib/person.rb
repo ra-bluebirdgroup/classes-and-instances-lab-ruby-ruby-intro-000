@@ -1,8 +1,6 @@
-calss PERSON
-
+class PERSON
  puts "greetings"
-
-end
-
+ end 
+ 
 adele_goldberg = PERSON.new
 alan_kay = PERSON.new
