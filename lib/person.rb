@@ -1,4 +1,4 @@
-calss person
+calss PERSON
  puts "greetings"
 
 end
