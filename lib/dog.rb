@@ -1,7 +1,7 @@
 class dog
   Puts "woof"
-end 
+end
 
-dog.new = fido
-dog.new = snoopy
-dog.new = lassie
+fido = dog.new
+snoopy = dog.new
+lassie = dog.new 
