@@ -1,7 +1,8 @@
 calss PERSON
+
  puts "greetings"
 
 end
 
-adele_goldberg = person.new
-alan_kay = person.new
+adele_goldberg = PERSON.new
+alan_kay = PERSON.new
